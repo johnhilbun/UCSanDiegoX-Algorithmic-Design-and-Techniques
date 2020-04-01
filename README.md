@@ -1,7 +1,8 @@
 # UCSanDiegoX-Algorithms
 Python and C++ algorithm implementations
 
-These are algorithm implementations for UCSanDiegoX -  ALGS200x : Algorithmic and Design Techniques.
+These are algorithm implementations for UCSanDiegoX -  ALGS200x : Algorithmic and Design Techniques
+Programming Assignment 1
 
 PA1:  
 &nbsp; 01 - APlusB : received two ints, return A+B  
