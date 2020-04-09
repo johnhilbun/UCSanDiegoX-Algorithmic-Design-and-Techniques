@@ -10,4 +10,5 @@ PA1:
 &nbsp; 02 - MaxPairWiseProduct : receive an array/vector. Return the product of the two max values.  
 
 PA2:  
-&nbsp;  01 - Fibonacci Number : compute Fibonacci Number
+&nbsp; 01 - Fibonacci Number : compute Fibonacci Number  
+&nbsp; 02 - Fibonacci Number : compute last digit of Fibonacci Number  
