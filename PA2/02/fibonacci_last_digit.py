@@ -9,11 +9,12 @@ def get_fibonacci_last_digit_naive(n):
     current  = 1
 
     for _ in range(n - 1):
-        previous, current = current, previous + current
+        # JDH original previous, current = current, previous + current
+        previous, current = (current % 10), (previous + current) % 10   # JDH added
 
-    return current % 10
+    return current # JDH was 5 10
 
 if __name__ == '__main__':
-    input = sys.stdin.read()
+    input = sys.stdin.readline()    # JDH was .read()
     n = int(input)
     print(get_fibonacci_last_digit_naive(n))
