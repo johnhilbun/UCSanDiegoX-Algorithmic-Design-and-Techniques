@@ -12,3 +12,6 @@ PA1:
 PA2:  
 &nbsp; 01 - Fibonacci Number : compute Fibonacci Number  
 &nbsp; 02 - Fibonacci Number : compute last digit of Fibonacci Number  
+
+PA3:  
+&nbsp;  01 - Greatest Common Denominator  
